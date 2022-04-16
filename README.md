@@ -1,6 +1,7 @@
-# Atomic-Archive
-archiving atomic cuz why not 
+# Atomic-Archives
+Want to download atomic but atomic shut down?
+well no worries!
 
-if its a thing someone drop atomic v2 in my dms (alosh#5574)
-
-by alosh 😊
+Atomic Archives are archived files of atomic before it shut down
+all of these versions of atomic were archived by alosh make sure
+to support them :)
